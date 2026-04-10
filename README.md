@@ -75,10 +75,10 @@ Install Python dependencies:
 
 👥 Team
 Name            Role      
-Wassie           Vision system, Arduino firmware, system integration of arduino and python, CAD design(Outsourced) 
-Sanjay           Hardware build, mechanical setup, System intigration of python and srduino code.
-Nafi             Pixel calibration, camera view and gantry axis co0rodinate mapping and initial stepper and servo motorrunning test and claw assemble.
-Alauddin         Hardware assembling and testing and debugging
+Wassie           Vision system, Arduino firmware, system integration of arduino and python, CAD design(Outsourced);
+Sanjay           Hardware build, mechanical setup, System intigration of python and srduino code;
+Nafi             Pixel calibration, camera view and gantry axis co0rodinate mapping and initial stepper and servo motorrunning test and claw assemble;
+Alauddin         Hardware assembling and testing and debugging;
 Emon             Documentation testing and hardware setup.
 
 📬 Contributions & Future Work
